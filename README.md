@@ -92,6 +92,6 @@ npm run build
 surge public my-project.surge.sh
 ```
 
-##Demo
+## Demo
 
 You can view the project deployed to the web using ZEIT [here](https://svelte-scoreboard-ed31zcwkj.now.sh/)
